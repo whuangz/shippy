@@ -4,8 +4,8 @@ import (
 	"context"
 	"github.com/pkg/errors"
 
-	pb "github.com/whuangz/shippy-consignment-service/proto/consignment"
-	vesselPb "github.com/whuangz/shippy-vessel-service/proto/vessel"
+	pb "github.com/whuangz/shippy/consignment-service/proto/consignment"
+	vesselPb "github.com/whuangz/shippy/vessel-service/proto/vessel"
 )
 
 type handler struct {

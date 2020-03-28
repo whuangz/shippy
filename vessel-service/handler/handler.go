@@ -4,7 +4,7 @@ import (
 	"context"
 
 	micro "github.com/micro/go-micro/v2"
-	pb "github.com/whuangz/shippy-vessel-service/proto/vessel"
+	pb "github.com/whuangz/shippy/vessel-service/proto/vessel"
 )
 
 type handler struct {

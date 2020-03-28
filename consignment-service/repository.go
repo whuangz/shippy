@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	pb "github.com/whuangz/shippy-consignment-service/proto/consignment"
+	pb "github.com/whuangz/shippy/consignment-service/proto/consignment"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

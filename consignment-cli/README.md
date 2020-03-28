@@ -1,1 +1,1 @@
-# shippy-consignment-cli
+# consignment-cli

@@ -1,1 +1,1 @@
-# shippy-vessel-service
+# vessel-service

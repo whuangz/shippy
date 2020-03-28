@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	pb "github.com/whuangz/shippy-vessel-service/proto/vessel"
+	pb "github.com/whuangz/shippy/vessel-service/proto/vessel"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )
