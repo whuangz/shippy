@@ -10,7 +10,7 @@ ENV GO111MODULE=on
 
 COPY . .
 
-RUN go mod download
+RUN go get
 RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o vessel-service
 
 # Run container
